@@ -1,0 +1,9 @@
+{
+	"expo": {
+		"name": "rns-formsheet-repro",
+		"slug": "rns-formsheet-repro",
+		"scheme": "rnsrepro",
+		"android": { "package": "com.example.rnsformsheetrepro" },
+		"plugins": ["expo-router"]
+	}
+}
